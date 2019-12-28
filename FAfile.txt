@@ -1,1 +1,2 @@
 I am in Feature A
+i am 2nd line in Feature A
